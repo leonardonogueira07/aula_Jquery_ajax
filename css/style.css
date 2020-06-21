@@ -1,0 +1,17 @@
+body{
+	background-color: #cecece;
+}
+
+.botao{
+	background-color: darkblue;
+	text-align: center;
+	color: white;
+	border-radius: 7px;
+	padding: 3px;
+}
+.container{
+	margin-top: 20px;
+}
+.progresso{
+	margin-top: 40px;
+}
